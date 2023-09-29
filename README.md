@@ -1,6 +1,8 @@
 # Kuis 1
 
-## A. Program Bidoata
+**Deadline: Rabu, 27 September 2023 23:59**
+
+## A. Program Biodata
 Buat program untuk menampilkan biodata pribadi Anda, data-data Anda diinputkan terlebih dahulu setelah itu ditampilkan!
 
 Contoh:
@@ -33,3 +35,15 @@ Contoh:
 *Catatan :
 - _Masing-masing diinput ke dalam satu variabel._
 - _Tulisan tebal merupakan inputan._
+- _Nama program bebas_
+
+## File yang dikumpulkan:
+1. Source Code Soal A
+2. Screenshot Ouput Soal A
+3. Source Code Soal B
+4. Screenshot Output Soal B
+
+<p>Penamaan File:<br>
+kuis_1_{Huruf Soal}_{Nama Panggilan}_{3 Digit terakhir NIM}.pas<br>
+Contoh:<br>
+<b></b>kuis_1_A_Andreas_067.pas</b></p>
