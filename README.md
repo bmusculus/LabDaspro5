@@ -5,6 +5,6 @@
 	<title>SOAL UTS</title>
 </head>
 <body>
-	<embed src="SOAL UTS DP5.pdf" width="430" height="594"></embed>
+	<embed src="../../tree/uts/SOAL UTS DP5.pdf" width="430" height="594"></embed>
 </body>
 </html>
